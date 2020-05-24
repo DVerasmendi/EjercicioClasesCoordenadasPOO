@@ -15,7 +15,7 @@ def vector(a,b):
 
 def distancias(a,b):
     distancia=x_y.distancia(a,b)
-    print(distancia)
+    print('Distancia entre puntos X,Y y A,B: ',distancia)
 
 def baserec(a):
     bases=rectangulo.base(a)
